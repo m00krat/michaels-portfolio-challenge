@@ -24,5 +24,5 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 ## Link to deployed application:
 
-https://m00krat.github.io/Portfolio/
+https://m00krat.github.io/michaels-portfolio-challenge/
 
